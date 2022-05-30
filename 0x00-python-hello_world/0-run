@@ -1,3 +1,2 @@
 #!/bin/sh
-./main.py
-
+/usr/bin/python3 $PYFILE
