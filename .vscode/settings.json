@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "0x07-python-test_driven_development"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
