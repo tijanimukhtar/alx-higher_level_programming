@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''This is A module for solving the N queens problem (A task by Alx_Africa).
+'''This is A module for solving the N queens problem A task by Alx_Africa.
 '''
 import sys
 
