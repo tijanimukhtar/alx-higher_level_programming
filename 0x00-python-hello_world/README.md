@@ -1,1 +1,1 @@
-# This is first step into Python 
+# This is first step into working with Python 
